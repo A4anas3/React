@@ -1,0 +1,24 @@
+h1{
+  font-weight: bolder;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  text-decoration: underline dashed ;
+   
+}
+input{
+  width:100%; 
+ 
+  
+}
+.container{
+  text-align: left;}
+
+
+  .kg-Button{
+    min-width: 80px;
+  }
+
+  .kg-row{
+    margin: 10px 5px;
+  }
