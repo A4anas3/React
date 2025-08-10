@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
  return (
-  <h1>Fragment frgment</h1>  
+  <h1>Fragment frgment ok</h1>  
  )
 }
 
